@@ -1,6 +1,7 @@
 from django.db import models
 
 # Create your models here.
+#fmaslkfm
 
 
 class Post(models.Model):
